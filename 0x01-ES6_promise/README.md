@@ -1,1 +1,1 @@
--p README.md
+This is a repository on Javascript promises
